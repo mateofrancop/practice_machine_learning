@@ -1,2 +1,2 @@
 # practice_machine_learning
-Here there are projects related to machine learning (pandas-matplotlib)
+Here i worked in projects related to machine learning (pandas-matplotlib)
